@@ -1,2 +1,61 @@
 # Data-Science-Docs
 END TO END PROCESS OF DATA SCIENCE - AI - ML - DL - NLP - LLM - DEPLOYMENTS
+
+# Data Pipeline Overview
+
+## 1️⃣ Data Collection
+- Web Scraping method in Python
+
+---
+
+## 2️⃣ Data Cleaning
+- Handling missing values
+- Removing duplicates
+- Fixing inconsistent data types
+- Outlier detection and treatment
+
+---
+
+## 3️⃣ Data Preprocessing in Python
+- Data normalization
+- Encoding categorical variables
+- Train-Test split
+- Handling imbalanced data
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+### 4️⃣ Exploratory Data Analysis
+- Data understanding & pattern recognition
+- Correlation analysis
+- Visualizing distributions & relationships
+
+#### EDA Tools & Techniques
+- EDA in Python
+- Advanced EDA methods
+- Time Series Data Visualization
+
+---
+
+## ⚙️ Feature Engineering & Selection
+
+### 5️⃣ Feature Engineering and Selection
+- Feature Engineering
+- Feature Extraction
+- Feature Selection Techniques
+- Feature Scaling
+
+---
+
+### ✨ Tools & Technologies
+| Category | Tools |
+|---------|------|
+| Programming | Python |
+| Libraries | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| Data Collection | Web Scraping (BeautifulSoup/Scrapy/Selenium) |
+| Feature Selection | Chi-Square, Mutual Info, PCA, Recursive Feature Elimination |
+
+---
+
+📌 *This document outlines the key components of the end-to-end data pipeline used in real-world Data Science projects.*
